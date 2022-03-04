@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TANVISHARMA08
-- 👀 I’m interested in C,PYTHON,JAVA
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in C,PYTHON,JAVASCRIPT
+- 🌱 I’m currently learning REACTJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tanvi8sh@gmail.com
 
