@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TANVISHARMA08
-- 👀 I’m interested in C,PYTHON,JAVASCRIPT
-- 🌱 I’m currently learning REACTJS
+- 👀 I’m interested in C,PYTHON,JAVASCRIPT,REACTJS,MERN
+- 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tanvi8sh@gmail.com
 
